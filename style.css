@@ -52,7 +52,7 @@ width: 100%;
 .navbar-toggle {
     border:0;
     border-radius:0;
-    margin:20px 15px
+    margin:5px 5px
 }
 
 .navbar-toggle .icon-bar {
@@ -76,9 +76,6 @@ width: 100%;
     border-color:#1eadef
 }
 
-.social li a {
-    padding-right:0
-}
 
 .navbar-nav>li>a {
     display:block;
@@ -240,8 +237,8 @@ min-height: 90px;
     
 header {
     background:#fff;
-    margin:2em 15px;
-    padding:20px 30px
+    margin:2em 5px;
+    padding:2px 3px
 }
     
     .navbar-header{
