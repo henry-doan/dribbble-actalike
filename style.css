@@ -251,9 +251,6 @@ background: #fff;}
     margin:0 0 .9em
 }
 
-.navbar-nav.social {
-    float:right
-}
 }
 
 /* Medium Devices, Desktops */
@@ -347,14 +344,14 @@ header {
 }
 
 .wrapper .container {
-    box-shadow:0 0 20px rgba(0,0,0,.05)
-}
+        box-shadow:0 0 20px rgba(0,0,0,.05)
+    }
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width: 1200px) {
-.wrapper {
-    padding:0 0 5em;
-    clear:both
-}
+    .wrapper {
+        padding:0 0 5em;
+        clear:both
+    }
 }
